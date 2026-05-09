@@ -2,9 +2,10 @@
 
 <div align="center">
 
-![ML Banner](https://img.shields.io/badge/Machine%20Learning-Notebooks-blue?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-100%25-orange?style=for-the-badge&logo=jupyter)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Notebooks-0078D4?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-100%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **A comprehensive collection of Machine Learning implementations, experiments, and projects**
 
@@ -133,11 +134,11 @@ This repository contains a curated collection of Machine Learning projects, impl
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **ML/DL** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white) |
-| **Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **ML/DL** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
+| **Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
 
 </div>
 
@@ -255,16 +256,27 @@ ML/
 
 ## 🗺️ Learning Path
 
-```mermaid
-graph LR
-    A[Python Basics] --> B[NumPy & Pandas]
-    B --> C[Mathematical Foundations]
-    C --> D[Linear Regression]
-    D --> E[Classification SVM]
-    E --> F[Neural Networks]
-    F --> G[Deep Learning CNN]
-    G --> H[Advanced RNN]
+<div align="center">
+
 ```
+📚 Python Basics
+    ↓
+📊 NumPy & Pandas
+    ↓
+🔢 Mathematical Foundations
+    ↓
+📈 Linear Regression
+    ↓
+🎯 Classification (SVM)
+    ↓
+🧠 Neural Networks (Perceptron)
+    ↓
+🖼️ Deep Learning (CNN)
+    ↓
+🔄 Advanced (RNN)
+```
+
+</div>
 
 ### Recommended Order:
 1. ✅ Start with `maths.ipynb` for mathematical foundations
@@ -299,7 +311,9 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=A-kki&color=brightgreen&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/A-kki/ML?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/A-kki/ML?style=social)
+![GitHub Watchers](https://img.shields.io/github/watchers/A-kki/ML?style=social)
 
 </div>
 
